@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GreyTree0
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Linux.
+- Name: @GreyTree0
+- Interested in: Computer Science.
+- Currently learning: Linux.
 
 <!---
 GreyTree0/GreyTree0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
